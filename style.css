@@ -786,6 +786,10 @@ path {
 
 @media screen and (max-width: 600px) {
 
+    .container {
+        overflow-x: hidden;
+    }
+
     .header {
         background-size: 200%;
     }
