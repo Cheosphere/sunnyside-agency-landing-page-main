@@ -6,6 +6,8 @@ El desafío es desarrollar esta Landing Page y lograr que se parezca lo más pos
 - CSS
 - JS Vanilla
 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/194195402-0bccf7e9-b4c1-46fb-b8d5-ca05c0afde02.jpg)
+
 # Guía de Estilo
 
 ## Diseño
