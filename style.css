@@ -802,6 +802,10 @@ path {
         padding: 1.8rem 0;
         margin-bottom: 3rem;
     }
+    
+    .navbar_menu {
+        top: 7rem;
+    }
 
     .header_title_heading {
         margin-bottom: 3rem;
