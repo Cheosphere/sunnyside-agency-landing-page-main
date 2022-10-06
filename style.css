@@ -163,7 +163,7 @@ body {
 
 .header_title_arrow {
     position: relative;
-    /* top: -500px; */
+    top: -500px;
 }
 
 .header_title_heading {

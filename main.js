@@ -6,9 +6,9 @@ menuMobileButton.addEventListener('click', () => {
     menuMobile.classList.toggle('navbar_show')
 })
 
-// anime({
-//     targets: '.header_title_arrow',
-//     top: 0,
-//     delay: 100,
-//     easing: 'easeInOutQuad'
-// }); 
+anime({
+    targets: '.header_title_arrow',
+    top: 0,
+    delay: 100,
+    easing: 'easeInOutQuad'
+}); 
