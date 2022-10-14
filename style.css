@@ -342,7 +342,7 @@ body {
 
 .content_col_photo_info {
     margin: 0 0 3.65rem 11.7rem;
-    transition: all .22s ease-in-out;
+    
 }
 
 .content_col_design_title,
@@ -353,6 +353,7 @@ body {
     letter-spacing: .02rem;
     text-align: center;
     color: var(--dark-desaturated-cyan-text);
+    transition: all .22s ease-in-out;
 }
 
 .content_col_design_parag,
@@ -361,6 +362,7 @@ body {
     text-align: center;
     line-height: 1.7rem;
     color: var(--dark-desaturated-cyan-text);
+    transition: all .22s ease-in-out;
 }
 
 /* CLIENT TESTIMONIALS AREA STYLES */

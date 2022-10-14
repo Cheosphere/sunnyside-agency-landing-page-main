@@ -8,7 +8,8 @@ menuMobileButton.addEventListener('click', () => {
 
 anime({
     targets: '.header_title_arrow',
-    top: 0,
-    delay: 100,
-    easing: 'easeInOutQuad'
+    translateY: [-200, 500],
+    easing: 'easeInOutSine',
+    direction: 'alternate',
+    loop: true
 }); 
